@@ -55,4 +55,4 @@ me.say_hi()
 
 If you want to add your own stats to your GitHub profile, [click here](https://github.com/anuraghazra/github-readme-stats#github-stats-card) to get your personalized stats.
 
-## Thank you for stopping by! I hope to see you again soon! &#128522; <img src="giphycat.gif" width='50'>
+## Thank you for stopping by! I hope to see you again soon! <img src="giphycat.gif" width='50'>
