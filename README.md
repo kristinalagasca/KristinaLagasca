@@ -13,8 +13,6 @@
 [![](https://img.shields.io/badge/Instagram-imkristina__-pink)](https://www.instagram.com/imkristina_/)
 [![](https://img.shields.io/badge/Portfolio-kristinamarie.me-red)](https://www.kristinamarie.me/)
 
-<br>
-
 ## <img src='peachcat-cute.gif' width='50'>Here's a little bit more about me...</center>
 
 ```python
