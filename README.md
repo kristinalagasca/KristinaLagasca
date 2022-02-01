@@ -53,7 +53,7 @@ me.say_hi()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristinalagasca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### If you want to add your own stats to your GitHub profile, [click here](https://github.com/anuraghazra/github-readme-stats#github-stats-card) to get your personalized stats.
+If you want to add your own stats to your GitHub profile, [click here](https://github.com/anuraghazra/github-readme-stats#github-stats-card) to get your personalized stats.
 
 ## Thank you for stopping by! I hope to see you again soon! &#128522;
 <img src="giphycat.gif">
