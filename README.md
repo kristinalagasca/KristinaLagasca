@@ -1,4 +1,4 @@
-<img align='right' src='https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif' width="180">
+<img align='right' src='Hello-World.gif' width="350">
 
 <center>
 
