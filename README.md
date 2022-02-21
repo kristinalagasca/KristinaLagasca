@@ -49,6 +49,9 @@ me.say_hi()
 <br>
 <center>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kristinalagasca&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristinalagasca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
