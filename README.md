@@ -90,8 +90,6 @@ Sunday       36 commits     ███░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/New_York
-
 💬 Programming Languages: 
 YAML                     5 mins              █████████████████░░░░░░░░   67.84% 
 Markdown                 2 mins              ████████░░░░░░░░░░░░░░░░░   32.16%
@@ -116,18 +114,10 @@ C++                      1 repo              ██░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/kristinalagasca/kristinalagasca/master/charts/bar_graph.png) 
-
-
  Last Updated on 22/02/2022 18:44:35 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kristinalagasca&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristinalagasca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 If you want to add your own stats to your GitHub profile, [click here](https://github.com/anuraghazra/github-readme-stats#github-stats-card) to get your personalized stats.
 
