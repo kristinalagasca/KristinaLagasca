@@ -50,6 +50,79 @@ me.say_hi()
 <center>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 251 Contributions in the Year 2022
+ > 
+> 📦 70.7 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 8 Public Repositories 
+ > 
+> 🔑 3 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    53 commits     █████░░░░░░░░░░░░░░░░░░░░   19.63% 
+🌆 Daytime    159 commits    ██████████████░░░░░░░░░░░   58.89% 
+🌃 Evening    52 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.26% 
+🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       57 commits     █████░░░░░░░░░░░░░░░░░░░░   21.11% 
+Tuesday      60 commits     █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+Wednesday    45 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Thursday     24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.89% 
+Friday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.44% 
+Saturday     36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+Sunday       36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.33%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+YAML                     5 mins              █████████████████░░░░░░░░   67.84% 
+Markdown                 2 mins              ████████░░░░░░░░░░░░░░░░░   32.16%
+
+🔥 Editors: 
+VS Code                  7 mins              █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+kristinalagasca          7 mins              █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  7 mins              █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               5 repos             ███████████░░░░░░░░░░░░░░   45.45% 
+Python                   5 repos             ███████████░░░░░░░░░░░░░░   45.45% 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/kristinalagasca/kristinalagasca/master/charts/bar_graph.png) 
+
+
+ Last Updated on 22/02/2022 18:44:35 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kristinalagasca&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
