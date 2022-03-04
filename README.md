@@ -50,7 +50,7 @@ me.say_hi()
 <center>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
 **🐱 My GitHub Data** 
 
@@ -91,14 +91,14 @@ Sunday       41 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 7 mins        ██████████████████░░░░░░░   72.03% 
-Markdown                 1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.93% 
-JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.83% 
-Git Config               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.6% 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58%
+Python                   6 hrs 5 mins        ███████████████████░░░░░░   78.23% 
+Markdown                 1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   14.27% 
+JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.48% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  8 hrs 30 mins       █████████████████████████   100.0%
+VS Code                  7 hrs 46 mins       █████████████████████████   100.0%
 
 ```
 
@@ -117,7 +117,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kristinalagasca/kristinalagasca/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/03/2022 18:43:17 UTC
+ Last Updated on 04/03/2022 18:38:51 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kristinalagasca&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
