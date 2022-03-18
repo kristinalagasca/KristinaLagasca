@@ -50,13 +50,13 @@ me.say_hi()
 <center>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 279 Contributions in the Year 2022
  > 
-> 📦 71.0 kB Used in GitHub's Storage 
+> 📦 71.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,13 +91,10 @@ Sunday       41 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-CSS                      18 mins             ███████████████░░░░░░░░░░   62.49% 
-JavaScript               7 mins              ██████░░░░░░░░░░░░░░░░░░░   25.7% 
-HTML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.68% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.13%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  30 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -116,7 +113,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kristinalagasca/kristinalagasca/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/03/2022 18:39:41 UTC
+ Last Updated on 18/03/2022 18:39:30 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kristinalagasca&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
