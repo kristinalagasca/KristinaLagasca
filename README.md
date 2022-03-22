@@ -50,7 +50,7 @@ me.say_hi()
 <center>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
@@ -113,7 +113,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kristinalagasca/kristinalagasca/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/03/2022 18:38:32 UTC
+ Last Updated on 22/03/2022 18:41:45 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kristinalagasca&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
