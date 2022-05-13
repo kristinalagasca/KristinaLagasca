@@ -3,7 +3,7 @@
 <center>
 
 ## Hi! I'm Kristina, but you can call me Tina &#128150;
-### I currently work as a Software Development Manager in the USA and I aspire to be a Security Engineer<br>
+### I currently work as a Cloud & DevOps Security Engineer &hearts;&hearts;<br>
 
 ### Here are some ways you can reach me:
 
@@ -24,7 +24,7 @@ class AboutTina:
 
     def __init__(self):
         self.name                   = "Kristina/Tina"
-        self.current_role           = "Software Development Manager"
+        self.current_role           = "Cloud & DevOps Security Engineer"
         self.languages_spoken       = ["en_US", "fr_FR", "tl_PH"]
         self.pronouns               = ["she", "her", "hers", "elle"]
         self.hobbies                = ["learning languages", "singing"]
