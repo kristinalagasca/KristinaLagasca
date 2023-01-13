@@ -110,13 +110,13 @@ C++                      1 repo              ██░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/kristinalagasca/kristinalagasca/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/xtinamarie/xtinamarie/master/charts/bar_graph.png) 
 
 
  Last Updated on 22/03/2022 18:41:45 UTC
 <!--END_SECTION:waka-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kristinalagasca&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xtinamarie&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 If you want to add your own stats to your GitHub profile, [click here](https://github.com/anuraghazra/github-readme-stats#github-stats-card) to get your personalized stats.
 
