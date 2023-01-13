@@ -7,10 +7,10 @@
 
 ### Here are some ways you can reach me:
 
-[![](https://img.shields.io/badge/LinkedIn-kristinamarielagasca-yellow)](https://www.linkedin.com/in/kristinamarielag/)
-[![](https://img.shields.io/badge/Gmail-kristinalagasca@gmail.com-blueviolet)](mailto:kristinalagasca@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-kristinamarie-yellow)](https://www.linkedin.com/in/kristinamarielag/)
+[![](https://img.shields.io/badge/TikTok-@xtina3.0-blueviolet)](https://www.tiktok.com/@xtina3.0/)
 [![](https://img.shields.io/badge/Twitter-tinyxtina__-purple)](https://twitter.com/tinyxtina_)
-[![](https://img.shields.io/badge/Instagram-imkristina__-pink)](https://www.instagram.com/imkristina_/)
+[![](https://img.shields.io/badge/YouTube-imkristina__-pink)](https://www.youtube.com/@tinyxtina_/)
 [![](https://img.shields.io/badge/Portfolio-kristinamarie.me-red)](https://www.kristinamarie.me/)
 
 ## <img src='peachcat-cute.gif' width='50'>Here's a little bit more about me...</center>
